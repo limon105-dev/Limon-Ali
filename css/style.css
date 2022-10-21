@@ -960,13 +960,13 @@ h6 {
 }
 
 .dizme_tm_about .numbers.year {
-	top: 120px;
-	left: -80px;
+	top: -80px;
+	left: 25px;
 }
 
 .dizme_tm_about .numbers.project {
-	bottom: 70px;
-	right: -30px;
+	bottom: -40px;
+	right: -40px;
 }
 
 .dizme_tm_about .numbers .wrapper {
